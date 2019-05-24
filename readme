@@ -8,8 +8,8 @@ to render base color,metalic,roughness,normal,etc.
 This script change select vertex on edit mode to pivot point on object mode.
 
 〇Install
-Start Blender, next select Edit→Preferences→Add-ons→Install, push 'Install Add-on from File'
-to you want install .py file selected on file browser.
+Start Blender, next select Edit→Preferences→Add-ons→Install, you want 
+install .py file selected on file browser to push 'Install Add-on from File'.
 
 〇Manual
 Please reference https://akim-muto.github.io/scripts_island/
