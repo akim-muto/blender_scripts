@@ -1,0 +1,15 @@
+〇これはBlenderのSciriptの詰め合わせです。現在以下のScriptが含まれています。
+対応するBlenderのバージョンは2.8です。
+1,Separation.py
+　ノードエディター上に配置され設定されたテクスチャのファイル名から
+固定文字を識別し、ベースカラー、メタリック、ラフネス、ノーマルなど種類別にレンダリングします。
+
+2,pivot_change.py
+　編集モードで選択した頂点を、オブジェクトモードへ変更した上でピボットポイントに変更します。
+
+〇インストール
+Blenderを起動後、Edit→Preferences→Add-ons→Installと選択したらファイルブラウザが起動するので
+インストールしたい拡張子pyのファイルを選択してInstall Add-on from Fileを押します。
+
+〇マニュアル
+https://akim-muto.github.io/scripts_island/ を参照してください。

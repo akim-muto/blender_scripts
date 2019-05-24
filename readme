@@ -1,0 +1,15 @@
+〇This is assorted Blender scripts. Including scripts as follows now.
+This scripts supported version2.8.
+1,Separation.py
+This script identify fixed character in file name of placed texture on node editor
+to render base color,metalic,roughness,normal,etc.
+
+2,pivot_change.py
+This script change select vertex on edit mode to pivot point on object mode.
+
+〇Install
+Start Blender, next select Edit→Preferences→Add-ons→Install, push 'Install Add-on from File'
+to you want install .py file selected on file browser.
+
+〇Manual
+Please reference https://akim-muto.github.io/scripts_island/
